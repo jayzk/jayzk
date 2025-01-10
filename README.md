@@ -12,6 +12,7 @@ My knowledge of MVC architecture and RESTful API development helps me create sca
 
 ### Libraries and Frameworks
 [![My Tech](https://skillicons.dev/icons?i=git,nodejs,express,react,sqlite,mongodb,electron,vite,tailwind,bootstrap)](https://skillicons.dev)
+[![My Tech](https://skillicons.dev/icons?i=git,nodejs,express,react,sqlite,mongodb,electron,vite,tailwind,java)](https://skillicons.dev)
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,pycharm)](https://skillicons.dev)
