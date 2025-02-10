@@ -16,6 +16,13 @@ My knowledge of MVC architecture and RESTful API development helps me create sca
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,pycharm)](https://skillicons.dev)
 
+## What I'm currently working on! 📔
+[![learning](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+- Learning containerization with Docker!
+  
+[![learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- Learning cloud computing and services with AWS!
+
 <!--
 **jayzk/jayzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
